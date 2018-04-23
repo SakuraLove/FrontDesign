@@ -1,0 +1,10 @@
+.container{
+    position: absolute;
+    top: 10%;
+    left: 10%;
+    font-size: 30px;
+}
+.slideshow{
+    padding-left: 10px;
+    margin-left: 10px;
+}
